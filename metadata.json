@@ -1,0 +1,7 @@
+{
+  "name": "鮮食智配 - 智慧冰箱食材食譜推薦",
+  "description": "智慧冰箱照片盤點、AI 食材辨識與框選、個人化食譜推薦、動態換菜與烹飪完成庫存扣除。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
